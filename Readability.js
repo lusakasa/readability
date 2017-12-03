@@ -1740,6 +1740,7 @@ Readability.prototype = {
       dir: this._articleDir,
       content: articleContent.innerHTML,
       textContent: textContent,
+      encoding: document.characterSet,
       length: textContent.length,
       excerpt: metadata.excerpt,
     };
