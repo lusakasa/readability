@@ -1,5 +1,5 @@
 {
-  "name": "@saka/readability",
+  "name": "@lusakasa/readability",
   "version": "0.2.0",
   "description": "Custom Fork of Mozilla's Readability Library",
   "main": "Readability.js",
