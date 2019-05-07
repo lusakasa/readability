@@ -1,7 +1,7 @@
 {
-  "name": "readability",
+  "name": "@saka/readability",
   "version": "0.2.0",
-  "description": "A standalone version of the readability library used for Firefox Reader View.",
+  "description": "Custom Fork of Mozilla's Readability Library",
   "main": "Readability.js",
   "scripts": {
     "lint": "eslint .",
@@ -12,17 +12,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/mozilla/readability"
+    "url": "https://github.com/lusakasa/readability"
   },
-  "author": "",
+  "author": "Sufyan Dawoodjee",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/mozilla/readability/issues"
+    "url": "https://github.com/lusakasa/readability/issues"
   },
   "engines": {
     "node": ">=7.0"
   },
-  "homepage": "https://github.com/mozilla/readability",
+  "homepage": "https://github.com/lusakasa/readability",
   "devDependencies": {
     "chai": "^2.1.*",
     "eslint": ">=4.2",
